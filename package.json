@@ -1,0 +1,12 @@
+{
+  "name": "BR BOT",
+  "version": "1.0.0",
+  "description": "BR BOT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0"
+  }
+}
